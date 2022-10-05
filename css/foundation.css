@@ -5607,10 +5607,7 @@ p {
   padding: 20px;
   margin: 20px;
 }
-.HeadShot{
-  height: 50%;
-  width: 50%;
-} 
+
 a{
   color:rgba(10, 10, 10, 0.7)
 }
@@ -5625,12 +5622,20 @@ ol a {
   background-color: transparent;
 }
 
-.introduction ul{
+.introduction ul, ol{
   font-size: .9rem;
   
 }
 
+table {
+  background-color: rgb(71, 94, 41);
+  margin-left: 0px;
+  width: 80%;
+}
 
+.cell{
+  background-color: #ededed;
+}
 
 
 
