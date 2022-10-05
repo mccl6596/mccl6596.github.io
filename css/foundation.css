@@ -5608,8 +5608,8 @@ p {
   margin: 20px;
 }
 .HeadShot{
-  height: 30%;
-  width: 30%;
+  height: 50%;
+  width: 50%;
 } 
 a{
   color:rgba(10, 10, 10, 0.7)
@@ -5623,6 +5623,11 @@ a{
 ol a {
   color:#0a0a0a;
   background-color: transparent;
+}
+
+.introduction ul{
+  font-size: .9rem;
+  
 }
 
 
