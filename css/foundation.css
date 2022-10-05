@@ -21,9 +21,6 @@ html {
 .menu_button {
   width: 10%;
 }
-body {
-  background-color: #5e5e5e;
-  margin: 0; }
 
 h1 {
   font-size: 2em;
@@ -42,16 +39,7 @@ pre {
 a {
   background-color: transparent; }
 
-.introduction {
-  background-color:rgba(27, 26, 26, 0.259);
-  padding: 20px;
-  margin: 20px;
-}
 
-.HeadShot{
-  height: 30%;
-  width: 30%;
-}
 
 abbr[title] {
   border-bottom: none;
@@ -5604,5 +5592,27 @@ html.is-reveal-open {
     .hide-for-landscape,
     .show-for-portrait {
       display: block !important; } }
+body {
+  background-color: #5e5e5e;
+  margin: 0; 
+  
+}
+
+p{
+  font-size: 1.2rem;
+}
+
+.introduction {
+  background-color:rgb(168, 168, 167);
+  padding: 20px;
+  margin: 20px;
+}
+.HeadShot{
+  height: 30%;
+  width: 30%;
+} 
+
+
+
 
 /*# sourceMappingURL=foundation.css.map */
